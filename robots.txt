@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sayyamnrg.github.io/b2b-b2c/sitemap.xml
